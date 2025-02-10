@@ -1,4 +1,4 @@
-# PA3 - Character level LSTM for music generation
+# PA3 - Character level LSTM/RNN for Shakespearean Text Generation
 
 ## Please refer the PA3 pdf for instructions!
 
